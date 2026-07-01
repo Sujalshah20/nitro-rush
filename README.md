@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF4500,FF8C00,00BFFF&height=260&section=header&text=NITRO%20RUSH&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Open%20World%20Driving%20%7C%20JavaScript%20Car%20Game&descAlignY=65&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF4500,FF8C00,00BFFF&height=280&section=header&text=NITRO%20RUSH&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Open%20World%20Car%20Driving%20Game&descAlignY=68&descSize=21" width="100%"/>
 
 # 🚗 NITRO RUSH
 
-### *Open World Top-Down Car Driving Game*
+### *High-Speed Open World Car Driving Game*
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/)
-[![Canvas](https://img.shields.io/badge/Canvas_API-FF4500?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![HTML5 Canvas](https://img.shields.io/badge/Canvas-FF4500?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=700&color=FF4500&center=true&vCenter=true&width=720&lines=High-Speed+Car+Game;Collect+Coins+%26+Nitro;Beat+Your+High+Score;Built+with+HTML5+Canvas+%26+JavaScript;Open+World+Driving+Experience+🏎️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=700&color=FF4500&center=true&vCenter=true&width=750&lines=Fast-Paced+Car+Game;Collect+Coins+%26+Use+Nitro;Beat+Your+High+Score;Built+with+React+%2B+TypeScript+%2B+Canvas;Addictive+Browser+Driving+Experience+🏎️" alt="Typing SVG" />
 </p>
 
-[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF4500?style=for-the-badge&logo=playstation&logoColor=white)](https://your-live-link-here.com)
+[![Play Demo](https://img.shields.io/badge/🎮_PLAY_DEMO-FF4500?style=for-the-badge&logo=playstation&logoColor=white)](https://your-live-link-here.com)
 
 </div>
 
@@ -22,20 +23,20 @@
 
 ## 🎮 About Nitro Rush
 
-**Nitro Rush** is a fast-paced, addictive **open-world top-down car driving game** built using **HTML5 Canvas and Vanilla JavaScript**. Drive around a dynamic city, collect coins, use nitro boost, avoid obstacles, and try to beat your high score!
+**Nitro Rush** is a modern, addictive **open-world top-down car driving game** built with **React, TypeScript, and HTML5 Canvas**. Drive freely in a dynamic city environment, collect coins, activate nitro boosts, avoid obstacles, and compete for the highest score.
 
-Perfect for anyone looking for a **JavaScript car game**, **HTML5 driving game**, or **browser-based racing game**.
+A perfect blend of fun gameplay and clean, modern code — ideal for developers looking for a **React car game**, **TypeScript game**, or **HTML5 Canvas game** example.
 
-### ✨ Features
+### ✨ Key Features
 
-- 🏎️ Smooth top-down car controls (WASD + Arrow Keys)
 - ⚡ Nitro Boost System (Spacebar)
-- 💰 Coin Collection with Combo System
-- 🏆 High Score & Leaderboard
+- 💰 Coin Collection with Combo Multipliers
+- 🏆 High Score & Persistent Leaderboard
 - ⏱️ Time-based Challenge Mode
-- 🎨 Beautiful Pixel Art Style
-- 📱 Fully Responsive & Mobile Touch Support
-- 🔥 Addictive Gameplay with Increasing Difficulty
+- 🎨 Smooth Pixel-Art Style Graphics
+- ⌨️ Responsive Controls (Keyboard + WASD)
+- 📊 Real-time Score & Speed Display
+- 🎯 Game Over Screen with Final Stats
 
 ---
 
@@ -43,41 +44,45 @@ Perfect for anyone looking for a **JavaScript car game**, **HTML5 driving game**
 
 <div align="center">
 
-<img src="https://i.ibb.co/your-first-image-link.png" alt="Nitro Rush Game Menu" width="80%" style="border-radius: 15px;"/>
+### 🏠 Homepage / Menu
+<img src="https://i.ibb.co/NBWXc6N/homepage.png" alt="Nitro Rush Homepage" width="85%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(255, 69, 0, 0.3);"/>
+
 <br/><br/>
-<img src="https://i.ibb.co/your-second-image-link.png" alt="Nitro Rush Gameplay" width="80%" style="border-radius: 15px;"/>
+
+### 🎮 Gameplay
+<img src="https://i.ibb.co/x885wgDJ/game-page.png" alt="Nitro Rush Gameplay" width="85%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(255, 69, 0, 0.3);"/>
+
 <br/><br/>
-<img src="https://i.ibb.co/your-third-image-link.png" alt="Nitro Rush Game Over Screen" width="80%" style="border-radius: 15px;"/>
+
+### 🏁 Game Over Screen
+<img src="https://i.ibb.co/ZQzZTqH/game-over.png" alt="Nitro Rush Game Over" width="85%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(255, 69, 0, 0.3);"/>
 
 </div>
 
 ---
 
-## 🚀 How to Play
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Use **WASD** or **Arrow Keys** to drive
-4. Press **SPACE** to activate Nitro Boost
-5. Collect coins and avoid crashing!
-
-**Controls:**
-- `W / ↑` – Accelerate
-- `S / ↓` – Brake/Reverse
-- `A / ←` – Turn Left
-- `D / →` – Turn Right
-- `SPACE` – Nitro Boost
-- `ESC / P` – Pause
-
----
-
 ## 🛠️ Tech Stack
 
-- **HTML5 Canvas** – Game Rendering
-- **Vanilla JavaScript** – Game Logic & Physics
-- **CSS3** – UI & Animations
-- **LocalStorage** – Saving High Scores
+- **Framework:** React + TypeScript
+- **Build Tool:** Vite
+- **Game Rendering:** HTML5 Canvas
+- **Styling:** CSS3 + TailwindCSS
+- **State Management:** React Hooks + Context
+- **Language:** TypeScript
 
 ---
 
-## 📂 Project Structure
+## 🚀 How to Run
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Sujalshah20/nitro-rush.git
+
+# 2. Navigate to project folder
+cd nitro-rush
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
